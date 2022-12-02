@@ -1,19 +1,17 @@
 {
-  "posts": [
+  "produtos": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "nome": "Curso de Angular Avançado",
+      "validade": "2021-12-31",
+      "precoPRoduto": 550.54,
+      "precoProduto": 150
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nome": "Curso Phyton ",
+      "validade": "2022-12-17",
+      "precoProduto": 100,
+      "id": 2
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
